@@ -1,2 +1,12 @@
 # TPF_engenharia
-Prova de estágio realizada pela empresa TPf engenahria 
+Prova de estágio realizada pela empresa TPf engenharia.
+
+## Clonando o Projeto
+
+Para clonar este projeto em sua máquina local, siga as etapas abaixo:
+
+1. Abra um terminal.
+2. Navegue até o diretório onde deseja clonar o projeto.
+3. Execute o seguinte comando:
+
+git clone URL_DO_REPOSITÓRIO
