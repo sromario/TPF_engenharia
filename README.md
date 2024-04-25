@@ -9,4 +9,6 @@ Para clonar este projeto em sua máquina local, siga as etapas abaixo:
 2. Navegue até o diretório onde deseja clonar o projeto.
 3. Execute o seguinte comando:
 
-git clone URL_DO_REPOSITÓRIO
+git clone https://github.com/sromario/TPF_engenharia.git
+
+Projeto conta com resolução de três problemas, e com um arquivo pdf explicando cada
